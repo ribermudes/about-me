@@ -2,8 +2,10 @@ body,html{
   margin: 0;
   padding: 0;
   background-color: #eeecec;
+  font-family: sans-serif;
 }
-.links{
-  float: right;
-  display: inline;
+
+.links {
+float: right;
+margin-left:5px;
 }
